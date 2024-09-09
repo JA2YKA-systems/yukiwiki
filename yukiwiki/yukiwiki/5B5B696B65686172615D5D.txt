@@ -1,0 +1,46 @@
+*Ikehara's page
+http://delta/~ikehara/
+
+**Dreamcast
+-公式ページはここ http://www.ma.nma.ne.jp/~ikehara/dc/index.html
+-開発ページはここ http://delta/~ikehara/
+
+**3D Graphics
+-読んどけ
+--第2回　ピクセルシェーダ入門 -> http://spin.s2c.ne.jp/stoday02.html
+
+**LINKs
+
+-マイコン
+--HOS H8 http://member.nifty.ne.jp/Ryuz/index.html
+--HOS SH2 http://www19.u-page.so-net.ne.jp/tc5/hamayan/hos-sh/hos.html
+
+-NetBSD
+--NetBSD.org http://www.netbsd.org
+--JNUG http://www.jp.netbsd.org
+
+-Dreamcast
+--DCDEV for NetBSD/dreamcast http://www.ma.nma.ne.jp/~ikehara/dc/index.html
+---自分のページ
+--dREAMcAST dEVELOPMENT pAGE http://homepages.compuserve.de/bITmASTER32/dc-index.html
+---bITmASTER のページ
+
+-3D Graphics
+--spin http://spin.s2c.ne.jp/
+---shader programmer's indight
+--Kano's Website http://cgi3.tky.3web.ne.jp/~tkano/
+---「Game Programming Gems」の翻訳者
+--BMRT http://www.exluna.com/products/bmrt/
+---RenderMan インタフェース準拠のレイトレーサ
+
+-3D Modeling
+--Blender http://www.blender.nl/
+
+-3D Animation
+--DoGA http://www.doga.co.jp/
+---CGアニメによる個人ベースの新しいデジタル映像文化を広めるために活動している非営利団体
+
+-misc
+--頭狂アンダーグラウンドから学ぶ２ｃｈ用語 http://www.geocities.co.jp/Beautycare-Venus/1304/KIKAKU/tokyo2ch.html
+--天誅ホームページ http://www.niji.or.jp/home/mic/
+

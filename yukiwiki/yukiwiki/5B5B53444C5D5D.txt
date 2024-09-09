@@ -1,0 +1,5 @@
+SDL
+http://www.libsdl.org/
+
+SDLドキュメント（日本語版）
+http://zinnia.dyndns.org/~cvsweb/sdldoc-jp/

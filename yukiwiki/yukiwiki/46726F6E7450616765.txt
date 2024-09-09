@@ -1,0 +1,18 @@
+----
+*YKA Wiki
+YukiWiki を置いてみました。
+適当に遊んでねー。
+de AGV
+----
+Unix Programming Frequently Asked Questions 日本語訳
+http://www.adl.nii.ac.jp/~moro/unix-programmer/faq-j_toc.html
+
+CVS
+http://www.sodan.org/%7Epenny/vc/index.html
+
+SDL
+[[SDL]]
+
+**個人のWikiページ
+他人でも編集できるんだけどな。(w
+-[[ikehara]]
